@@ -6,8 +6,9 @@ body{
 
 	display: flex;
 	flex-direction: row;
-	background-color: black;
-	padding-bottom: 5px;	
+	background-color: #555574;
+	padding-bottom: 0
+		;	
 	justify-content:space-between;
 	width: 100%;
 
@@ -42,7 +43,7 @@ body{
 }
 .pages a{
 	text-decoration: none;
-	color: #8ECEFF;
+	color: #FFFFFF;
 
 }
 
